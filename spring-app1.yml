@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-app1
+  datasource:
+    name: spring-app1-ds
