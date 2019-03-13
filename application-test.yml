@@ -3,4 +3,3 @@ spring:
     username: test
     password: 'qwerty'
     encrypted: '{cipher}9ced618e7de77c85f1cec60d841dc114262bc53ae2fcc1e502489f16ea7bfeff'
-    invalid: '{cipher}9ced618e7de77c85f1cec60d841dc114262bc53ae2fcc1e502489f16ea7bfef'
